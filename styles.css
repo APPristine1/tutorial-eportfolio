@@ -48,6 +48,7 @@ nav {
   font-weight: 700;
 }
 
-.fa-adjust {
-  font-size: 20px;
+.contrast__icon {
+  width: 20px;
+  height: 20px;
 }
